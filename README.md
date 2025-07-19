@@ -62,9 +62,8 @@ Ensure the following libraries are installed in the Arduino IDE:
 - SD
 - Wire
 
-## File Structure
+## Diagram 
 
-ESPcade/ ├── ESPcade.ino ├── images/ │   ├── menu.png │   └── snake.png ├── README.md └── highscores/ ├── snake.txt └── tetris.txt
 
 <img width="701" height="492" alt="image" src="https://github.com/user-attachments/assets/45faf5f6-28c6-4825-ad8c-2c8d25843766" />
 
